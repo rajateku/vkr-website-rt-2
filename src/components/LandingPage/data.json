@@ -29,8 +29,8 @@
     },
     {
       "title": "Software Development Project",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "largeImage": "img/portfolio/02.large.jpeg",
+      "smallImage": "img/portfolio/02.small.jpeg"
     },
     {
       "title": "Graphic Design Project",
@@ -39,13 +39,13 @@
     },
     {
       "title": "Social Media Management Project",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "largeImage": "img/portfolio/04.large.jpg",
+      "smallImage": "img/portfolio/04.small.jpg"
     },
     {
       "title": "Data Analytics Project",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "largeImage": "img/portfolio/05.large.jpg",
+      "smallImage": "img/portfolio/05.small.jpg"
     },
     {
       "title": "Web Development Project",
