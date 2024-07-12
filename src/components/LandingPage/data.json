@@ -1,0 +1,195 @@
+{
+  "Header": {
+    "title": "Advanced Data Anlaytics",
+    "paragraph": "With a promise of office internship and job offer, Gain professional work experience and job opportunities through virtual internships."
+  },
+  "About": {
+    "paragraph": "In today's digital age, online learning and remote work have become the norm. Virtual internships provide a unique opportunity to gain valuable work experience without having to be physically present in an office. Resumes of students do not speak volumes, but their works do and it's even better if you can hear them discuss their assignments and demonstrate their knowledge firsthand. VKR is the chosen stage for students to showcase their skills and attributes to the large Indian corporate audience.",
+    "Why": [
+      "Gain practical work experience from anywhere in the world",
+      "Develop critical skills required in the modern workforce",
+      "Build your professional network by connecting with industry experts",
+      "Increase your chances of getting hired in your field of interest"
+    ],
+    "Why2": [
+      "Flexible schedules that fit around your other commitments",
+      "Access to high-quality training and resources",
+      "Opportunity to work on real-world projects and contribute to the success of companies",
+      "Opportunity to explore different industries and career paths"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Marketing Strategy Project",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Software Development Project",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Graphic Design Project",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Social Media Management Project",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Data Analytics Project",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Web Development Project",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Content Creation Project",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Management Project",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "E-commerce Project",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Virtual Internships",
+      "text": "Learn about the corporate universe with our Host Companies at a very early stage of your career. Learn the latest and most used work practices as well as gain valuable skills and knowledge to have a brighter career. On VKR, you just don’t apply but you actually intern and showcase your abilities to your future employers."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Hiring",
+      "text": "UPYLFT is a one-stop-shop for evaluating and hiring interns and freshers based on their assignments, knowledge quizzes, and real-time video interviews."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Employee Upskilling",
+      "text": "Your employees are a competitive advantage. Upskilling them not only maximizes their efficiency and productivity but also improves employee retention. Upskill them at their pace from their place."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "VKR has not only supported me to do an internship with my dream companies remotely. Through our academic curriculum I could only do internship between May-July, but through VKR I can pick up any number of interns anytime.",
+      "name": "Rohit Jagtap"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "I had a family constraint to travel to different cities, but I wanted to show that I am a promising student who can turn out to be an asset for top companies. Through VKR I could reach some leading companies and even got connected for placements.",
+      "name": "Mukul Jinwal"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "VKR is a practical learning platform, I could learn how actually a company researches and analyses and strategizes in reality, it was quite enlightening. I can have work immersion. It is a very valuable experience.",
+      "name": "Somshankar Srivastava"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "I didn’t know beyond a handful of names of companies, this is like a portal opening to the entire corporate universe of India.",
+      "name": "Mihir Bhatia"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "The best part with VKR is I could do it from my hostel, home whenever I had free time. Its quite engaging and through its evaluation I could get a scope to correct my concepts. The concept ofvideo interview is awesome!",
+      "name": "Nandana Sen"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "Firstly I could identify what I really want to become after practicing through VKR, it helped me finding my true career interest.",
+      "name": "Mayra Amin"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Suanjana Biswas",
+      "job": "Chief Executive Officer"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Raja Teku",
+      "job": "Chief Technology Officer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Anand Sen",
+      "job": "Chief Excellence Officer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Amol Sewale",
+      "job": "Lead Engineer"
+    }
+  ],
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Easy Signup",
+      "text": "Signing up for our platform is quick and easy. No complicated forms or lengthy procedures. Just a few clicks and you're ready to go!"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Learn and Practice",
+      "text": "Our platform offers a comprehensive range of courses for you to learn and practice. From beginner to advanced levels, we have something for everyone."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Submit Assignments",
+      "text": "Submitting assignments has never been easier. Our platform provides a user-friendly interface for you to submit your assignments quickly and efficiently."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Video Interviews",
+      "text": "Our platform offers the option for video interviews, allowing you to showcase your skills and experience to potential employers in a seamless and convenient manner."
+    }
+  ],
+  "Contact": {
+    "address1": "807, 8th Floor, Lodha Supremus, Lodha Business District, Gate, 2, Kolshet Rd, Thane West, India",
+    "phone1": "+91 99876 48593",
+    "address2": "1 Inglewood, Chertsey, London, United Kingdom",
+    "phone2": "",
+    "email": "support@joinuplyft.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Footer": {
+    "social": [
+      {
+        "icon": "fa-facebook",
+        "url": "#"
+      },
+      {
+        "icon": "fa-twitter",
+        "url": "#"
+      },
+      {
+        "icon": "fa-instagram",
+        "url": "#"
+      },
+      {
+        "icon": "fa-linkedin",
+        "url": "#"
+      }
+    ],
+    "copyright": {
+      "text": "© 2023 Virtual Internships. All Rights Reserved.",
+      "url": "#"
+    }
+  }
+}
