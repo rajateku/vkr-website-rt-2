@@ -16,6 +16,7 @@ import Website from "./pages/website";
 import Home from "./pages/home";
 import Dashboard from "./pages/dashboard";
 import Jobs from "./pages/jobs";
+import CaseStudies from "./pages/caseStudies";
 import Profile from "./pages/profile";
 import CompanyPage from "./pages/company";
 import InternshipPage from "./pages/internship";
@@ -43,6 +44,7 @@ const App = () => {
             <Route path="*" element={<Navigate to="/" />} />
             <Route exact path='/explore/company/:id' element={<CompanyPage />}></Route>
             <Route exact path='/roles-jobdescriptions' element={<Jobs />}></Route>
+            <Route exact path='/case-studies' element={<CaseStudies />}></Route>
             <Route
               element={<ProtectedRoutesComponent />}
             >

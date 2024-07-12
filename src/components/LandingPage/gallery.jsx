@@ -6,9 +6,9 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Projects</h2>
+          <h2>Case Studies</h2>
           <p>
-            We have various projects spanning across engineering, design, finance and sales
+            We have various projects spanning across engineering, design, finance, and sales.
           </p>
         </div>
         <div className="row">
@@ -17,13 +17,21 @@ export const Gallery = (props) => {
               ? props.data.map((d, i) => (
                   <div
                     key={`${d.title}-${i}`}
-                    className="col-sm-6 col-md-4 col-lg-4"
+                    className="col-sm-6 col-md-4 col-lg-4 mb-4"
                   >
-                    <Image
-                      title={d.title}
-                      largeImage={d.largeImage}
-                      smallImage={d.smallImage}
-                    />
+                    <a href="/case-studies" target="_blank" rel="noopener noreferrer" className="card-link">
+                  
+                      <div className="card p-3">
+                        <Image
+                          title={d.title}
+                          largeImage={d.largeImage}
+                          smallImage={d.smallImage}
+                        />
+                        <div className="card-body">
+                          <h5 className="card-title">{d.title}</h5>
+                        </div>
+                      </div>
+                    </a>
                   </div>
                 ))
               : "Loading..."}
