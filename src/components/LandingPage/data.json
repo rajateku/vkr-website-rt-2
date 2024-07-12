@@ -24,8 +24,8 @@
   "Gallery": [
     {
       "title": "Marketing Strategy Project",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "largeImage": "img/portfolio/01.large.jpg",
+      "smallImage": "img/portfolio/01.small.jpg"
     },
     {
       "title": "Software Development Project",
