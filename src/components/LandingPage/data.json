@@ -1,21 +1,21 @@
 {
   "Header": {
     "title": "Advanced Data Anlaytics",
-    "paragraph": "With a promise of office internship and job offer, Gain professional work experience and job opportunities through virtual internships."
+    "paragraph": "We transform how companies make decisions"
   },
   "About": {
-    "paragraph": "In today's digital age, online learning and remote work have become the norm. Virtual internships provide a unique opportunity to gain valuable work experience without having to be physically present in an office. Resumes of students do not speak volumes, but their works do and it's even better if you can hear them discuss their assignments and demonstrate their knowledge firsthand. VKR is the chosen stage for students to showcase their skills and attributes to the large Indian corporate audience.",
+    "paragraph": "Integrated business expertise and analytical prowess including data science techniques across the value chain to derive data-driven actionable insights",
     "Why": [
-      "Gain practical work experience from anywhere in the world",
-      "Develop critical skills required in the modern workforce",
-      "Build your professional network by connecting with industry experts",
-      "Increase your chances of getting hired in your field of interest"
+      "Solutions are customized to meet the unique needs of each business",
+      "Collaborative approach to partner with clients to solve critical business problems",
+      "Accelerated impact  by prioritizing quick wins",
+      "Solutions that focus on using a decision sciences and analytics-based approach to generate superior returns for clients."
     ],
     "Why2": [
-      "Flexible schedules that fit around your other commitments",
-      "Access to high-quality training and resources",
-      "Opportunity to work on real-world projects and contribute to the success of companies",
-      "Opportunity to explore different industries and career paths"
+      "Solutions are customized to meet the unique needs of each business",
+      "Collaborative approach to partner with clients to solve critical business problems",
+      "Accelerated impact  by prioritizing quick wins",
+      "Solutions that focus on using a decision sciences and analytics-based approach to generate superior returns for clients."
     ]
   },
   "Gallery": [
@@ -188,7 +188,7 @@
       }
     ],
     "copyright": {
-      "text": "© 2023 Virtual Internships. All Rights Reserved.",
+      "text": "© 2024 VKR. All Rights Reserved.",
       "url": "#"
     }
   }

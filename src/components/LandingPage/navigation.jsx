@@ -71,7 +71,7 @@ export const Navigation = (props) => {
                 Contact
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="https://business.joinuplyft.com/" style={{color:'orange'}}>
                 Go to Business
               </a>
@@ -83,7 +83,7 @@ export const Navigation = (props) => {
                   Sign in
               </a>
               </Link>
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>
