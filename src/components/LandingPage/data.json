@@ -70,19 +70,19 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Virtual Internships",
-      "text": "Learn about the corporate universe with our Host Companies at a very early stage of your career. Learn the latest and most used work practices as well as gain valuable skills and knowledge to have a brighter career. On VKR, you just don’t apply but you actually intern and showcase your abilities to your future employers."
+       "icon": "fa fa-wordpress",
+            "name": "DATA AND ANALYTICS",
+            "text": "Data is at the heart of business transformation. Our solutions provide insights that help you develop new products and services, elevate customer experience, and enhance business outcomes."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Hiring",
-      "text": "UPYLFT is a one-stop-shop for evaluating and hiring interns and freshers based on their assignments, knowledge quizzes, and real-time video interviews."
+      "name": "SUSTAINABILITY SERVICES",
+      "text": "Sustainability is a collective goal requiring us all to work together. To succeed, businesses need to shift from mitigation to regeneration, from a reactive mindset of ‘doing less harm’ to a proactive one of ‘doing more good’. The way forward is to use the power of technology and innovation to pioneer new, sustainable opportunities and take an ecosystem-led approach to build greater futures.."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Employee Upskilling",
-      "text": "Your employees are a competitive advantage. Upskilling them not only maximizes their efficiency and productivity but also improves employee retention. Upskill them at their pace from their place."
+      "name": "ENTERPRISE SOLUTIONS",
+      "text": "Enterprise applications are the backbone of businesses today. Digital transformation requires a holistic approach with intelligent solutions from a range of ecosystem partners."
     }
   ],
   "Testimonials": [
