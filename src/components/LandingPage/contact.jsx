@@ -184,7 +184,7 @@ export const Contact = (props) => {
           <p>
             &copy; 2023
             <a href="http://www.templatewire.com" rel="nofollow">
-              VKR
+              -VKR
             </a>
           </p>
         </div>
