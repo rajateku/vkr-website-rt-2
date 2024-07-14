@@ -39,11 +39,11 @@ const App = () => {
     <div className="website-page">
       <Navigation />
       <Header data={landingPageData.Header} />
-      <Features data={landingPageData.Features} />
       <About data={landingPageData.About} />
+      <Features data={landingPageData.Features} />
       <Services data={landingPageData.Services} />
       {<Gallery data={landingPageData.Gallery} />}
-      {/* { <Testimonials data={landingPageData.Testimonials} />} */}
+      { <Testimonials data={landingPageData.Testimonials} />}
       {/* { <Team data={landingPageData.Team} />} */}
       <ProgramCarousal/>
       <Contact data={landingPageData.Contact} />

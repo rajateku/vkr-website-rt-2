@@ -20,6 +20,9 @@ export const Features = (props) => {
             : "Loading..."}
         </div>
       </div>
+      <br/>
+      <br/>
+      <br/>
     </div>
   );
 };

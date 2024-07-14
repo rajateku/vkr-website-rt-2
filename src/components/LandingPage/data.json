@@ -23,92 +23,107 @@
   },
   "Gallery": [
     {
-      "title": "Marketing Strategy Project",
+      "title": "AI-Driven Marketing Optimization",
       "largeImage": "img/portfolio/01.large.jpg",
       "smallImage": "img/portfolio/01.small.jpg"
     },
     {
-      "title": "Software Development Project",
+      "title": "Custom Software Solutions",
       "largeImage": "img/portfolio/02.large.jpeg",
       "smallImage": "img/portfolio/02.small.jpeg"
     },
     {
-      "title": "Graphic Design Project",
+      "title": "AI-Powered Design Insights",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Social Media Management Project",
+      "title": "Social Media Analytics",
       "largeImage": "img/portfolio/04.large.jpg",
       "smallImage": "img/portfolio/04.small.jpg"
     },
     {
-      "title": "Data Analytics Project",
+      "title": "Advanced Data Analytics Implementation",
       "largeImage": "img/portfolio/05.large.jpg",
       "smallImage": "img/portfolio/05.small.jpg"
     },
     {
-      "title": "Web Development Project",
+      "title": "Scalable Web Development",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Content Creation Project",
+      "title": "Content Optimization Using AI",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Management Project",
+      "title": "AI-Enhanced Project Management",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "E-commerce Project",
+      "title": "E-commerce Data Insights",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
     {
-       "icon": "fa fa-wordpress",
-            "name": "DATA AND ANALYTICS",
-            "text": "Data is at the heart of business transformation. Our solutions provide insights that help you develop new products and services, elevate customer experience, and enhance business outcomes."
+      "icon": "fa fa-database",
+      "name": "Data Management",
+      "text": "Efficiently manage and optimize your data with our comprehensive data management solutions. We ensure your data is organized, secure, and readily available for insightful analysis."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "SUSTAINABILITY SERVICES",
-      "text": "Sustainability is a collective goal requiring us all to work together. To succeed, businesses need to shift from mitigation to regeneration, from a reactive mindset of ‘doing less harm’ to a proactive one of ‘doing more good’. The way forward is to use the power of technology and innovation to pioneer new, sustainable opportunities and take an ecosystem-led approach to build greater futures.."
+      "icon": "fa fa-line-chart",
+      "name": "Advanced Analytics",
+      "text": "Unlock the full potential of your data with our advanced analytics services. We provide deep insights and predictive modeling to drive informed decision-making and strategic growth."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "ENTERPRISE SOLUTIONS",
-      "text": "Enterprise applications are the backbone of businesses today. Digital transformation requires a holistic approach with intelligent solutions from a range of ecosystem partners."
+      "icon": "fa fa-lightbulb-o",
+      "name": "Business Insights",
+      "text": "Transform data into actionable insights. Our AI-driven solutions help you understand market trends, customer behavior, and business performance to stay ahead of the competition."
+    },
+    {
+      "icon": "fa fa-briefcase",
+      "name": "Corporate Technology Solutions",
+      "text": "Empower your business with our cutting-edge corporate technology solutions. From enterprise applications to custom tech strategies, we support your digital transformation journey."
+    },
+    {
+      "icon": "fa fa-lock",
+      "name": "Data Security",
+      "text": "Protect your data with our robust security solutions. We offer end-to-end encryption, threat detection, and risk management to ensure your data remains secure and compliant."
+    },
+    {
+      "icon": "fa fa-cloud",
+      "name": "Cloud Integration",
+      "text": "Seamlessly integrate and scale your operations with our cloud solutions. We provide flexible, scalable, and secure cloud services to enhance your business agility and efficiency."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "They delivered innovative solutions that addressed our needs effectively. The project was completed on time, showcasing their commitment to deadlines. The quality of work was exceptional, and their team was professional and supportive throughout the process. I highly recommend VKR Tech Solutions for their expertise and dedication.",
+      "text": "VKR Tech Solutions delivered innovative solutions that effectively addressed our needs. The project was completed on time, showcasing their commitment to deadlines. The quality of work was exceptional, and their team was professional and supportive throughout. I highly recommend VKR Tech Solutions for their expertise and dedication.",
       "name": "Rohit Jagtap"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "VKR team brought a high level of innovation to the project, delivering creative solutions that perfectly met our requirements. They consistently met deadlines and maintained excellent communication throughout the process. The quality of their work was outstanding, and their professionalism and expertise made the entire experience seamless. I highly recommend VKR Tech Solutions for any project requiring innovative and timely solutions.",
+      "text": "VKR team delivered creative solutions that perfectly met our requirements. They consistently met deadlines and maintained excellent communication. The quality of their work was outstanding, and their professionalism made the entire experience seamless. Highly recommend VKR Tech Solutions for any project requiring innovative and timely solutions.",
       "name": "Mukul Jinwal"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "They consistently demonstrated a strong commitment to innovation, providing us with creative solutions that exceeded our expectations. The project was completed ahead of schedule, showcasing their dedication to timeliness. The professionalism and expertise of their team were evident in the high-quality deliverables. We had a seamless and highly satisfying experience working with VKR Tech Solutions, and we look forward to future collaborations.",
+      "text": "VKR Tech Solutions provided us with creative solutions that exceeded our expectations. The project was completed ahead of schedule, showcasing their dedication to timeliness. The professionalism and expertise of their team were evident in the high-quality deliverables. We had a seamless experience working with VKR Tech Solutions.",
       "name": "Somshankar Srivastava"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "Working with VKR Tech Solutions was a game-changer for us. Their innovative approach brought fresh perspectives to our project, and they consistently delivered ahead of schedule. The team’s expertise and seamless communication ensured a smooth process from start to finish. VKR Tech Solutions exceeded our expectations in every way, and we couldn't be happier with the results.",
+      "text": "Working with VKR Tech Solutions was a game-changer for us. Their innovative approach brought fresh perspectives to our project, and they consistently delivered ahead of schedule. The team’s expertise and seamless communication ensured a smooth process from start to finish. VKR Tech Solutions exceeded our expectations in every way.",
       "name": "Mihir Bhatia"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "VKR Tech Solutions delivered exceptional results with innovative solutions and timely completion of our project. Their professionalism and expertise made the process smooth and efficient. Highly recommended!.",
+      "text": "VKR Tech Solutions delivered exceptional results with innovative solutions and timely completion of our project. Their professionalism and expertise made the process smooth and efficient. Highly recommended!",
       "name": "Nandana Sen"
     },
     {
@@ -128,7 +143,6 @@
       "name": "Raja Teku",
       "job": "Advisor"
     },
-    
     {
       "img": "img/team/04.jpg",
       "name": "Amol Sewale",
@@ -137,32 +151,32 @@
   ],
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Easy Signup",
-      "text": "Signing up for our platform is quick and easy. No complicated forms or lengthy procedures. Just a few clicks and you're ready to go!"
+      "icon": "fa fa-line-chart",
+      "title": "Streamlined Onboarding",
+      "text": "Get started with our platform effortlessly. Our streamlined onboarding process ensures your business is up and running with our advanced analytics tools in no time."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Learn and Practice",
-      "text": "Our platform offers a comprehensive range of courses for you to learn and practice. From beginner to advanced levels, we have something for everyone."
+      "icon": "fa fa-cogs",
+      "title": "Advanced Analytics Tools",
+      "text": "Harness the power of AI with our comprehensive suite of advanced analytics tools. From data visualization to predictive modeling, we provide everything you need to gain valuable insights."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Submit Assignments",
-      "text": "Submitting assignments has never been easier. Our platform provides a user-friendly interface for you to submit your assignments quickly and efficiently."
+      "icon": "fa fa-database",
+      "title": "Efficient Data Management",
+      "text": "Manage your data seamlessly with our robust data management solutions. Our platform ensures your data is organized, secure, and easily accessible."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Video Interviews",
-      "text": "Our platform offers the option for video interviews, allowing you to showcase your skills and experience to potential employers in a seamless and convenient manner."
+      "icon": "fa fa-rocket",
+      "title": "AI-Driven Insights",
+      "text": "Leverage AI-driven insights to make informed business decisions. Our platform uses state-of-the-art AI algorithms to provide you with actionable intelligence and competitive advantages."
     }
   ],
   "Contact": {
     "address1": "20-9, Pamarru,Krishna District,Andhra Pradesh,India",
     "phone1": "+91 9121491466",
-     "address2": "10-5, Madhapur, Hyderabadh, India",
-      "email": "vkrtech70@gmail.com",
-        "facebook": "fb.com",
+    "address2": "10-5, Madhapur, Hyderabadh, India",
+    "email": "vkrtech70@gmail.com",
+    "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },

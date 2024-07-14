@@ -25,7 +25,7 @@ export const Gallery = (props) => {
                         <Image
                           title={d.title}
                           largeImage={d.largeImage}
-                          smallImage={d.smallImage}
+                          smallImage={d.largeImage}
                         />
                         <div className="card-body">
                           <h5 className="card-title">{d.title}</h5>

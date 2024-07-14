@@ -182,7 +182,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023
+            &copy; 2024
             <a href="http://www.templatewire.com" rel="nofollow">
               -VKR
             </a>
