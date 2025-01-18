@@ -12,15 +12,16 @@ export const Header = (props) => {
                 <h1>
                   {props.data ? props.data.title : "Loading"}
                   <span></span>
+                  
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
-                {/* <Link to="/signup" className='hide-text'>
+                <Link to="https://skills.vkrfoundry.com/" className='hide-text'>
                   <span className="btn-custom rounded-pill page-scroll">
-                    Sign up
+                    Skills and Internships
                   </span>
                 </Link>
-                {" "}
-                <Link to="/signin" className='hide-text'>
+                {/* {" "} */}
+                {/* <Link to="/signin" className='hide-text'>
                   <span className="btn-custom rounded-pill page-scroll" >
                      Sign in
                   </span>
