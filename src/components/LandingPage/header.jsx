@@ -17,7 +17,7 @@ export const Header = (props) => {
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <Link to="https://skills.vkrfoundry.com/" className='hide-text'>
                   <span className="btn-custom rounded-pill page-scroll">
-                    Skills and Internships
+                    AI Academy
                   </span>
                 </Link>
                 {/* {" "} */}
